@@ -2,7 +2,7 @@
 
 <img src="./docs/assets/banner.svg" alt="Meridian — Instrument-Panel Weather App" width="100%" />
 
-<a href="https://github.com/RajdipDhar2007/meridian-weather">
+<a href="https://github.com/RajdipDhar2007/Meridian">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=A+sky+that+actually+feels+the+weather+%E2%98%80%EF%B8%8F;Live+GPS+%E2%80%A2+Animated+dials+%E2%80%A2+Real+moon+phases+%F0%9F%8C%99;Zero+API+keys.+Zero+backend.+Pure+vibes.+%E2%9A%A1;Built+with+%E2%9D%A4%EF%B8%8F+by+RAJDIP+DHAR" alt="Typing animation" />
 </a>
 
@@ -110,8 +110,8 @@ It runs entirely on free, keyless APIs ([Open-Meteo](https://open-meteo.com/) + 
 ### Installation
 
 ```bash
-git clone https://github.com/RajdipDhar2007/meridian-weather.git
-cd meridian-weather
+git clone https://github.com/RajdipDhar2007/Meridian.git
+cd Meridian
 npm install
 ```
 
@@ -251,15 +251,15 @@ Please run `npm run lint` and `npm run build` before submitting a PR.
 
 It costs nothing, takes one second, and genuinely motivates me to keep building and shipping more open-source projects like this.
 
-<a href="https://github.com/RajdipDhar2007/meridian-weather/stargazers">
+<a href="https://github.com/RajdipDhar2007/Meridian/stargazers">
   <img src="https://img.shields.io/badge/%E2%AD%90_Star_this_repo-f472b6?style=for-the-badge&logoColor=white" alt="Star this repo" height="44" />
 </a>
 &nbsp;
-<a href="https://github.com/RajdipDhar2007/meridian-weather/fork">
+<a href="https://github.com/RajdipDhar2007/Meridian/fork">
   <img src="https://img.shields.io/badge/%F0%9F%8D%B4_Fork_it-38bdf8?style=for-the-badge&logoColor=white" alt="Fork this repo" height="44" />
 </a>
 &nbsp;
-<a href="https://github.com/RajdipDhar2007/meridian-weather/issues/new">
+<a href="https://github.com/RajdipDhar2007/Meridian/issues/new">
   <img src="https://img.shields.io/badge/%F0%9F%90%9B_Report_a_bug-fbbf24?style=for-the-badge&logoColor=white" alt="Report a bug" height="44" />
 </a>
 
